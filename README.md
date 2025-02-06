@@ -1,5 +1,5 @@
 # HON2000
-#DO NOT place RPGMaker files directly to this main folder.
+# DO NOT place RPGMaker files directly to this main folder.
 Repository for Honors 2000 Foundation Seminar collaboration.
 
 Here is an easy tutorial of how to use GitHub:
