@@ -6,9 +6,13 @@ Branches:
   Different versions of the same game. 
   Use the main branch if your changes are mutually agreed upon
   Make your own branch to create a "spin-off" for our consideration
+
+  
 Forks: 
   Different versions of the game *on your personal account*
   Don't use forks for collaboration.
+
+  
 Pull requests:
   Requests to merge your branch to the main branch.
 
