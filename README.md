@@ -2,7 +2,7 @@
 # DO NOT place RPGMaker files directly in this main folder.
 Repository for Honors 2000 Foundation Seminar collaboration.
 
-Link to the shared Google Drive (which architecture should generally *not* be using):
+Link to the shared Google Drive (which architecture should generally *not* be using except temporarily):
 https://drive.google.com/drive/folders/1zHZWC462bGgSSHC6lBkIwSiYeVx7Ddnp?usp=drive_link
 
 Branches:
